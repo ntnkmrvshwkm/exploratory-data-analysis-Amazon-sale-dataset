@@ -1,0 +1,11 @@
+Row Labels,Count of Audit_Flags
+FLAG: Unknown Error,5863
+Match,40246
+Tax Calculation Error,53891
+Grand Total,100000
+,
+,
+Row Labels,Count of Shipping_Audit
+FLAG: High Shipping Cost,643
+Normal,99357
+Grand Total,100000
